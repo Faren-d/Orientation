@@ -1,2 +1,5 @@
-# orientation
-MDS 2024-25 orientation materials 
+# MDS Orientation
+
+Repository for sharing MDS Orientation materials with 2024-25 student cohort.
+
+
